@@ -1,0 +1,47 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "titulo": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+        "autor": "J. D. Vance",
+        "preco": "$19,12",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/81ytGlIkLoL._AC_UL254_SR254,254_.jpg"
+      },
+      {
+        "id": 2,
+        "titulo": "It Ends with Us: A Novel",
+        "autor": "Colleen Hoover",
+        "preco": "$18,47",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/813aV273-rL._AC_UL210_SR195,210_.jpg"
+      },
+      {
+        "id": 3,
+        "titulo": "A Court of Thorns and Roses",
+        "autor": "Sarah J. Maas",
+        "preco": "$17,59",
+        "imagem": "https://m.media-amazon.com/images/I/51FgxGdVh5L._SY445_SX342_.jpg"
+      },
+      {
+        "id": 4,
+        "titulo": "Bridgerton: Daphne's Story, The Duke and I",
+        "autor": "Julia Quinn",
+        "preco": "$20,99",
+        "imagem": "https://m.media-amazon.com/images/I/51s4o5JJMLL._SY445_SX342_.jpg"
+      },
+      {
+        "id": 5,
+        "titulo": "House of Earth and Blood (Crescent City Book 1)",
+        "autor": "Sarah J. Maas",
+        "preco": "$20,90",
+        "imagem": "https://m.media-amazon.com/images/I/51n2SL82XlL._SY445_SX342_.jpg"
+      },
+      {
+        "id": 6,
+        "titulo": "Doctor Sleep: A Novel",
+        "autor": "Stephen King",
+        "preco": "$18,47",
+        "imagem": "https://m.media-amazon.com/images/I/41izB8XeI3L._SY445_SX342_.jpg"
+      }
+    ]
+  }
+  
